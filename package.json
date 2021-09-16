@@ -13,5 +13,13 @@
       "name": "Mayank Rathod",
       "email": "mayank@dirtcube.xyz",
       "url": "https://www.dirtcube.xyz"
-    }
+    },
+
+    "samples": [
+      {
+        "displayName": "Sample 1",
+        "description": "Description for sample 1.",
+        "path": "Samples/sample-folder-1"
+      }
+    ]
   }
